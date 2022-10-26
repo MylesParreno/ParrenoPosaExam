@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="header1">NEGROS OCCIDENTAL</string>
+    <string name="header2">Top Tourist Spots</string>
+    <string name="card1">Danjugan Island</string>
+    <string name="card2">The Ruins</string>
+    <string name="card3">Campuestohan Resort</string>
+    <string name="card4">Mag-Aso Falls</string>
+
+    <string name="det_1_Title">Danjugan Island</string>
+    <string name="det_1_Desc">Danjugan is a 43-hectare island rich in biodiversity. It has 5 lagoons, white sand beaches, bat caves, lush limestone and mangrove forests and surrounded by vast seagrass beds and fringing coral reefs.</string>
+    <string name="det_1_Loc">Location:</string>
+    <string name="det_1_Locinfo">Brgy. Bulata, Cauayan, Negros Occidental Philippines"</string>
+    <string name="det_1_Cont">Contact:</string>
+    <string name="det_1_ContinfoA"> 0908-525-4108 / 0917-320-1099 </string>
+    <string name="det_1_ContinfoB">patrons@danjuganisland.ph</string>
+
+    <string name="det_2_Title">The Ruins</string>
+    <string name="det_2_Desc">The Ruins is the remains of the ancestral home mansion of the family of Don Mariano Ledesma Lacson and Maria Braga Lacson. It is situated in Talisay, Negros Occidental, Philippines. The mansion was built in early 1900s and inspired by Italian architecture.</string>
+    <string name="det_2_Loc">Location:</string>
+    <string name="det_2_Locinfo">Talisay City, Negros Occidental</string>
+    <string name="det_2_Cont">Contact:</string>
+    <string name="det_2_ContinfoA">0905 513 3347 </string>
+    <string name="det_2_ContinfoB">http://www.theruins.com.ph/</string>
+
+    <string name="det_3_Title">Campuestohan Resort</string>
+    <string name="det_3_Desc">Campuestohan Highland Resort is a fantastic resort in Negros Occidental dubbed as “The Disneyland of Negros.” A resort with so many features and so many things to do mainly built for fun and relaxation especially for families and friends. They have zipline, sky bike, carousel, heroes’ hall, shoe house, giant foot-shaped swimming pool, huge playground and more. The food being served also gained a good reputation and their accommodation is really good.</string>
+    <string name="det_3_Loc">Location:</string>
+    <string name="det_3_Locinfo">Sitio campuestohan Barangay, Talisay City, 6115 Negros Occidental</string>
+    <string name="det_3_Cont">Contact:</string>
+    <string name="det_3_ContinfoA">0917 300 5007</string>
+    <string name="det_3_ContinfoB">https://www.facebook.com/CampuestohanHighlandResort</string>
+
+    <string name="det_4_Title">Mag-Aso Falls</string>
+    <string name="det_4_Desc">Mag-Aso Falls is an enchanting waterfalls in Negros Occidental famous of its turquoise or bluish water that makes its basin very attractive that lures visitors for a swim. Aside from the falls, there is also a man-made swimming pool fed by the free-flowing spring water that makes it very refreshing.</string>
+    <string name="det_4_Loc">Location:</string>
+    <string name="det_4_Locinfo">Barangay Oringao, Kabankalan City, Negros Occidental</string>
+    <string name="det_4_Cont">Rates:</string>
+    <string name="det_4_ContinfoA">Php 50 for the entrance, Php 200 for Nipa Hut, Php 1000 for the room. </string>
+
+
+</resources>
